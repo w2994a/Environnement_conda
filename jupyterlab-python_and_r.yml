@@ -1,0 +1,9 @@
+name: python-and-r 
+channels:
+   - defaults
+   - conda-forge
+dependencies:
+   - jupyterlab>=3
+   - r-base>=4
+   - r-irkernel
+   - rpy2

@@ -1,0 +1,7 @@
+name: rstudio-r
+channels:
+   - defaults
+   - conda-forge
+dependencies:
+   - r-base>=4
+   - r-rstudioapi
